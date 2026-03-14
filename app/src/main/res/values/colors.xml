@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors (default) -->
+    <color name="dark_bg">#FFFAFAFA</color>
+    <color name="dark_surface">#FFF0F0F5</color>
+    <color name="dark_card">#FFE5E5EA</color>
+    <color name="dark_input">#FFEEEEEE</color>
+    <color name="purple_primary">#FF7C3AED</color>
+    <color name="purple_light">#FF8B5CF6</color>
+    <color name="purple_accent">#FFA78BFA</color>
+    <color name="purple_dim">#227C3AED</color>
+    <color name="text_primary">#FF1A1A1A</color>
+    <color name="text_secondary">#FF6B7280</color>
+    <color name="user_bubble">#FF7C3AED</color>
+    <color name="aria_bubble">#FFF0F0F5</color>
+    <color name="mic_active">#FFA78BFA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="drawer_bg">#FFF5F5FA</color>
+    <color name="code_bg">#FFF0F0F5</color>
+    <color name="code_text">#FF7C3AED</color>
+    <color name="link_color">#FF7C3AED</color>
+</resources>

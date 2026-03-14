@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_server_url" translatable="false"></string>
+    <string name="default_voice_id" translatable="false"></string>
+    <string name="default_session_key" translatable="false"></string>
+    <string name="default_session_mode" translatable="false">separate</string>
+    <string name="default_stt_provider" translatable="false">android</string>
+    <string name="default_tts_provider" translatable="false">android</string>
+    <string name="default_assistant_name" translatable="false">Aria</string>
+    <string name="default_language" translatable="false">en</string>
+</resources>

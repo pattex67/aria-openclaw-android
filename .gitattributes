@@ -1,0 +1,2 @@
+# Ignore mockup files from GitHub language stats
+mockup/* linguist-vendored

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_bg">#FF121218</color>
+    <color name="dark_surface">#FF1E1E2A</color>
+    <color name="dark_card">#FF2A2A3C</color>
+    <color name="dark_input">#FF252535</color>
+    <color name="purple_primary">#FF8B5CF6</color>
+    <color name="purple_light">#FFA78BFA</color>
+    <color name="purple_accent">#FFC084FC</color>
+    <color name="purple_dim">#33A78BFA</color>
+    <color name="text_primary">#FFFAFAFA</color>
+    <color name="text_secondary">#FF9CA3AF</color>
+    <color name="user_bubble">#FF8B5CF6</color>
+    <color name="aria_bubble">#FF1E1E2A</color>
+    <color name="mic_active">#FFC084FC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="drawer_bg">#FF161622</color>
+    <color name="code_bg">#FF2A2A3C</color>
+    <color name="code_text">#FFC084FC</color>
+    <color name="link_color">#FF8B5CF6</color>
+</resources>

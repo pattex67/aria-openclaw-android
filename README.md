@@ -14,7 +14,7 @@ Native Android client for [OpenClaw Gateway](https://github.com/openclaw/opencla
 
 ## What is OpenClaw?
 
-OpenClaw is an open-source AI gateway server that you self-host on your own hardware (NAS, Raspberry Pi, VPS, etc.). It acts as a bridge between your AI provider (Anthropic, OpenAI, etc.) and multiple clients — Discord bots, web interfaces, and mobile apps like Aria.
+OpenClaw is an open-source AI gateway server that you self-host on your own hardware (NAS, Raspberry Pi, VPS, etc.). It acts as a bridge between your AI provider (OpenAI, Google Gemini, Mistral, etc.) and multiple clients — Discord bots, web interfaces, and mobile apps like Aria.
 
 This app **requires** a running [OpenClaw Gateway](https://github.com/openclaw/openclaw) instance to connect to. It does not call AI APIs directly — all requests go through your OpenClaw server, which manages sessions, memory, and multi-client synchronization.
 
